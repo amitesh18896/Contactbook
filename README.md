@@ -62,7 +62,7 @@ Enter search term: Amitesh
 Search result:
 
 
-Name: Aman, Phone Number: 8587******
+Name: Amitesh, Phone Number: 8587******
 
 
 Thanks:
